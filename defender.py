@@ -6,6 +6,8 @@ print("This game helps with learning about arrays, specifically appending and re
 print("It will also help by practising while loops")
 print("This example uses no for loops")
 
+input()
+
 
 import random
 
